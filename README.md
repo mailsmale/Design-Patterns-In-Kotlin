@@ -23,7 +23,7 @@ Based on [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-
 	* [Singleton](#singleton)
 	* [Abstract Factory](#abstract-factory)
 * [Structural Patterns](#structural)
-	* [Adapter](#adapter)
+	* [adapter](#adapter)
 	* [Decorator](#decorator)
 	* [Facade](#facade)
 	* [Protection Proxy](#protection-proxy)
@@ -696,7 +696,7 @@ Printing with object: PrinterDriver@6ff3c5b5
 Printing with object: PrinterDriver@6ff3c5b5
 ```
 
-[Abstract Factory](/src/main/kotlin/AbstractFactory.kt)
+[Abstract Factory](/src/main/kotlin/abstractFactory.kt)
 -------------------
 
 The abstract factory pattern is used to provide a client with a set of related or dependant objects.
@@ -753,7 +753,7 @@ Structural
 >
 >**Source:** [wikipedia.org](http://en.wikipedia.org/wiki/Structural_pattern)
 
-[Adapter](/src/main/kotlin/Adapter.kt)
+[adapter](/src/main/kotlin/adapter.kt)
 ----------
 
 The adapter pattern is used to provide a link between two otherwise incompatible types by wrapping the "adaptee" with a class that supports the interface required by the client.

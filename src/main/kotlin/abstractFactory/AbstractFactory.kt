@@ -1,3 +1,5 @@
+package abstractFactory
+
 //Based on: http://stackoverflow.com/a/13030163/361832
 
 interface Plant
